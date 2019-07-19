@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.14.4
+FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.14.x
 MAINTAINER wanghailong
